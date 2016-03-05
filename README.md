@@ -7,7 +7,8 @@ This is the boilerplate for Middleman projects for Windows. Currently using Midd
 This is for people who're having difficulties while running middleman on Windows.
 
 ## Local setup
-.
+
+
 1. Make sure you've ruby 2.2.4p230 (2015-12-16 revision 53155) or above installed.
 
 2. Install [Bundler](https://rubygems.org/gems/bundler) and [Middleman](https://rubygems.org/gems/middleman)
